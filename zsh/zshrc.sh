@@ -9,9 +9,8 @@
 
 # Settings
 	export VISUAL=vim
-
 source ~/dotfiles/zsh/plugins/fixls.zsh
-
+	
 #Functions
 	# Custom cd
 	c() {
